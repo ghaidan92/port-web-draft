@@ -1,0 +1,22 @@
+body {
+    /* background-color: rgb(38, 4, 70); */
+}
+
+header {
+    border: 20px rgb(9, 167, 240) solid;
+    background-color: rgb(9, 167, 240) !important;
+    padding: 0px !important;
+}
+
+.navbar-nav-scroll {
+    /* background-color: rgb(38, 4, 70) !important; */
+}
+
+.body-background {
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.9;
+}
